@@ -1,0 +1,12 @@
+ body  
+    {
+    background-image: url('../images/background.jpg');
+   }
+
+   td {
+    color: red;
+    font: italic bold 12px/30px Georgia, serif;
+}
+.striker {
+	text-decoration: line-through;
+}
